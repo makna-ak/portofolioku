@@ -10,7 +10,6 @@ body{
 
 .top-wrapper{
   height: 500px;
-  padding-bottom: 80px;
   background-color: grey;
   text-align: center;
 }
@@ -63,4 +62,14 @@ body{
   background-image: none;
   background-size: cover;
   text-align: justify;
+}
+
+.profile-content h3{
+  color: darkorange;
+}
+
+.profile-content{
+  color: white;
+  background-color: gray;
+  width: 75%;
 }
