@@ -21,7 +21,7 @@ body{
   color: whitesmoke;
 }
 
-.profile{
+.profile-box{
   float: left;
   width: 25%;
 }
@@ -35,4 +35,32 @@ body{
   top: 80px;
   width: 100%;
   color: white;
+}
+
+.profile-abi{
+  padding: 180px 0 100px 0;
+  background-image: none;
+  background-size: cover;
+  text-align: justify;
+}
+
+.profile-makna{
+  padding: 180px 0 100px 0;
+  background-image: none;
+  background-size: cover;
+  text-align: justify;
+}
+
+.profile-faruq{
+  padding: 180px 0 100px 0;
+  background-image: none;
+  background-size: cover;
+  text-align: justify;
+}
+
+.profile-nadiah{
+  padding: 180px 0 100px 0;
+  background-image: none;
+  background-size: cover;
+  text-align: justify;
 }
