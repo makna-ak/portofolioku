@@ -8,11 +8,17 @@ body{
   margin: 0 auto;
 }
 
-.profiles{
+.top-wrapper{
   height: 500px;
   padding-bottom: 80px;
   background-color: grey;
   text-align: center;
+}
+
+.heading{
+  padding-top: 60px;
+  padding-bottom: 30px;
+  color: whitesmoke;
 }
 
 .profile{
