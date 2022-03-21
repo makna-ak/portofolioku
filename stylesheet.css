@@ -1,3 +1,32 @@
-h1{
-  color: aquamarine;
+body{
+  margin: 0;
+}
+
+.container{
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.profiles{
+  height: 500px;
+  padding-bottom: 80px;
+  background-color: grey;
+  text-align: center;
+}
+
+.profile{
+  float: left;
+  width: 25%;
+}
+
+.profile-image{
+  position: relative;
+}
+
+.profile-image p{
+  position: absolute;
+  top: 80px;
+  width: 100%;
+  color: white;
 }
