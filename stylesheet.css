@@ -11,19 +11,15 @@
 
 img{
   max-width: 100%;
-  max-width: 100%;
-  min-width: 100%;
-  min-height: 100%;
+  max-height: 100%;
 }
 
 .container{
-  width: 1170px;
   padding: 0 15px;
   margin: 0 auto;
 }
 
 .top-wrapper{
-  height: 657px;
   text-align: center;
   color: black;
 }
