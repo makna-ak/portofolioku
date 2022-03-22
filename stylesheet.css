@@ -13,6 +13,8 @@
   height: 652px;
   background-color: grey;
   text-align: center;
+  background-image: url(resources/Header\ 6.png);
+  background-size: cover;
 }
 
 .heading{
