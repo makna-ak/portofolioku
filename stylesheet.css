@@ -17,7 +17,7 @@ img{
 .top-wrapper{
   height: 652px;
   text-align: center;
-  background-image: url("https://github.com/makna-ak/portofolioku/blob/main/resources/Header6.png");
+  background-image: url(resources/Header6.png);
   background-size: cover;
   color: black;
 }
@@ -48,28 +48,28 @@ img{
 
 .profile-abi{
   /* padding: 180px 0 100px 0; */
-  background-image: url("https://github.com/makna-ak/portofolioku/blob/main/resources/HZ_Footer1.png");
+  background-image: url(resources/HZ_Footer1.png);
   background-size: cover;
   text-align: justify;
 }
 
 .profile-makna{
   /* padding: 180px 0 100px 0; */
-  background-image: url("/resources/HZ_Footer2.png");
+  background-image: url(resources/HZ_Footer2.png);
   background-size: cover;
   text-align: justify;
 }
 
 .profile-faruq{
   /* padding: 180px 0 100px 0; */
-  background-image: url("/resources/HZ_Footer3.png");
+  background-image: url(resources/HZ_Footer3.png);
   background-size: cover;
   text-align: justify;
 }
 
 .profile-nadiah{
   /* padding: 180px 0 100px 0; */
-  background-image: url("/resources/HZ_Footer4.png");
+  background-image: url(resources/HZ_Footer4.png);
   background-size: cover;
   text-align: justify;
 }
