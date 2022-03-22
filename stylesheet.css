@@ -15,7 +15,6 @@ img{
 }
 
 .container{
-  padding: 0 15px;
   margin: 0 auto;
 }
 
@@ -102,14 +101,7 @@ img{
 .profile-image{
   position: relative;
   display: inline-block;
-  width: 90%;
-}
-
-.profile-image p{
-  position: absolute;
-  top: 80px;
-  width: 100%;
-  color: black;
+  width: 75%;
 }
 
 .profile-team{
