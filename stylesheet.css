@@ -25,10 +25,6 @@ img{
 .top-wrapper{
   height: 657px;
   text-align: center;
-  background-image: url(resources/Header6.png);
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: bottom;
   color: black;
 }
 
@@ -110,7 +106,6 @@ img{
 }
 
 .profile-team{
-  display: flex;
   text-align: justify;
 }
 
