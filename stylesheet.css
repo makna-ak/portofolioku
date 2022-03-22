@@ -23,7 +23,7 @@ img{
 }
 
 .top-wrapper{
-  height: 645px;
+  height: 695px;
   text-align: center;
   background-image: url(resources/Header6.png);
   background-size: contain;
@@ -61,15 +61,17 @@ img{
 }
 
 .goal{
-  height: 645px;
+  height: 695px;
 }
 
 .goal h2{
   display: inline;
+  font-size: 40px;
 }
 
 .goal h3{
   display: inline-block;
+  font-size: 28px;
 }
 
 .contact{
