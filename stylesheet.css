@@ -61,8 +61,6 @@ img{
 }
 
 .container-goal{
-  height: 695px;
-  width: 1170px;
   padding: 0 15px;
   margin-top: 12.5%;
   margin-bottom: 12.5%;
@@ -88,9 +86,12 @@ img{
   margin-left: 10px;
 }
 
+.project{
+  display: flex;
+  text-align: justify;
+}
+
 .container-project{
-  height: 695px;
-  width: 1170px;
   padding: 0 15px;
   margin-top: 20px;
 }
