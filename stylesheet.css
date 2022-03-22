@@ -18,7 +18,9 @@ img{
   height: 652px;
   text-align: center;
   background-image: url(resources/Header6.png);
-  background-size: cover;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: bottom;
   color: black;
 }
 
@@ -48,15 +50,15 @@ img{
 
 .profile-abi{
   /* padding: 180px 0 100px 0; */
-  background-image: url(resources/HZ_Footer1.png);
-  background-size: cover;
+  /* background-image: url(resources/HZ_Footer1.png);
+  background-size: cover; */
   text-align: justify;
 }
 
 .profile-makna{
   /* padding: 180px 0 100px 0; */
-  background-image: url(resources/HZ_Footer2.png);
-  background-size: cover;
+  /* background-image: url(resources/HZ_Footer2.png);
+  background-size: cover; */
   text-align: justify;
 }
 
