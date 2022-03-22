@@ -64,7 +64,8 @@ img{
   height: 695px;
   width: 1170px;
   padding: 0 15px;
-  margin-top: 50%;
+  margin-top: 12.5%;
+  margin-bottom: 12.5%;
 }
 
 .goal h2{
@@ -85,6 +86,13 @@ img{
   color: orange;
   margin-right: 5px;
   margin-left: 10px;
+}
+
+.container-project{
+  height: 695px;
+  width: 1170px;
+  padding: 0 15px;
+  margin-top: 20px;
 }
 
 .profile-image{
