@@ -24,8 +24,8 @@ img{
 
 .heading{
   padding-top: 60px;
-  padding-bottom: 30px;
-  color: whitesmoke;
+  padding-bottom: 150px;
+  color: black;
 }
 
 .profile-box{
@@ -36,15 +36,14 @@ img{
 .profile-image{
   position: relative;
   display: inline-block;
-  height: 30px;
-  width: 80px;
+  width: 90%;
 }
 
 .profile-image p{
   position: absolute;
   top: 80px;
   width: 100%;
-  color: white;
+  color: black;
 }
 
 .profile-abi{
