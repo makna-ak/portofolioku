@@ -60,8 +60,9 @@ img{
   width: 25%;
 }
 
-.fa-solid{
-  color: orange;
+.contact{
+  float: right;
+  width: 70%;
 }
 
 .profile-image{
