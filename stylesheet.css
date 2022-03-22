@@ -23,7 +23,7 @@ img{
 }
 
 .top-wrapper{
-  height: 695px;
+  height: 657px;
   text-align: center;
   background-image: url(resources/Header6.png);
   background-size: contain;
@@ -60,8 +60,11 @@ img{
   width: 25%;
 }
 
-.goal{
+.container-goal{
   height: 695px;
+  width: 1170px;
+  padding: 0 15px;
+  margin-top: 50%;
 }
 
 .goal h2{
