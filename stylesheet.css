@@ -4,6 +4,10 @@
   font-family: 'Calibri Light','Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
+.bolded{
+  font-weight: bolder;
+}
+
 img{
   max-width: 100%;
   max-width: 100%;
@@ -34,15 +38,15 @@ img{
 }
 
 .heading h1{
-  font-size: 44;
+  font-size: 44px;
 }
 
 .name{
-  font-family: "Eras Demi ITC";
-  font-size: 48;
+  font-size: 48px;
 }
 
 .highlight{
+  font-size: 24px;
   font-family: Tahoma, 'Segoe UI', Geneva, Verdana, sans-serif;
   color: orangered;
 }
@@ -71,6 +75,7 @@ img{
 }
 
 .profile-content{
+  font-size: 15px;
   color: white;
   width: 45%;
   z-index: 1;
