@@ -51,10 +51,9 @@ img{
   width: 25%;
 }
 
-.content-goal{
-  padding: 0 15px;
-  margin-top: 12.5%;
-  margin-bottom: 12.5%;
+.container-goal{
+  padding: 0px 15px;
+  margin: 15% 0px 10px 0px;
 }
 
 .goal h2{
@@ -81,9 +80,9 @@ img{
   text-align: justify;
 }
 
-.content-project{
+.container-project{
   padding: 0 15px;
-  margin-top: 20px;
+  margin: 15px 0px 10px 0px;
   z-index: 1;
   position: absolute;
 }
