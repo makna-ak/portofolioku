@@ -23,7 +23,7 @@ img{
 }
 
 .top-wrapper{
-  height: 652px;
+  height: 645px;
   text-align: center;
   background-image: url(resources/Header6.png);
   background-size: contain;
@@ -58,6 +58,10 @@ img{
 .profile-box{
   float: left;
   width: 25%;
+}
+
+.goal{
+  height: 645px;
 }
 
 .goal h2{
