@@ -17,7 +17,7 @@ img{
 .top-wrapper{
   height: 652px;
   text-align: center;
-  background-image: url("/resources/Header6.png");
+  background-image: url('/resources/Header6.png');
   background-size: cover;
   color: black;
 }
