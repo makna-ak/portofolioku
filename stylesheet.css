@@ -48,31 +48,8 @@ img{
   color: black;
 }
 
-.profile-abi{
-  /* padding: 180px 0 100px 0; */
-  /* background-image: url(resources/HZ_Footer1.png);
-  background-size: cover; */
-  text-align: justify;
-}
-
-.profile-makna{
-  /* padding: 180px 0 100px 0; */
-  /* background-image: url(resources/HZ_Footer2.png);
-  background-size: cover; */
-  text-align: justify;
-}
-
-.profile-faruq{
-  /* padding: 180px 0 100px 0; */
-  background-image: url(resources/HZ_Footer3.png);
-  background-size: cover;
-  text-align: justify;
-}
-
-.profile-nadiah{
-  /* padding: 180px 0 100px 0; */
-  background-image: url(resources/HZ_Footer4.png);
-  background-size: cover;
+.profile-team{
+  display: flex;
   text-align: justify;
 }
 
@@ -82,5 +59,8 @@ img{
 
 .profile-content{
   color: white;
-  width: 75%;
+  width: 45%;
+  z-index: 1;
+  position: absolute;
+  margin-left: 50px;
 }
