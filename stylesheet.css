@@ -5,6 +5,13 @@ html, body{
   font-weight: 500;
 }
 
+header{
+  top: 0px;
+  margin-top: -1px;
+  position: fixed;
+  z-index: 2;
+}
+
 .bolded{
   font-weight: bolder;
 }
