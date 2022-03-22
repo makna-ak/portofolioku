@@ -48,28 +48,28 @@ img{
 
 .profile-abi{
   /* padding: 180px 0 100px 0; */
-  background-image: none;
+  background-image: url("/resources/HZ_Footer1.png");
   background-size: cover;
   text-align: justify;
 }
 
 .profile-makna{
   /* padding: 180px 0 100px 0; */
-  background-image: none;
+  background-image: url("/resources/HZ_Footer2.png");
   background-size: cover;
   text-align: justify;
 }
 
 .profile-faruq{
   /* padding: 180px 0 100px 0; */
-  background-image: none;
+  background-image: url("/resources/HZ_Footer3.png");
   background-size: cover;
   text-align: justify;
 }
 
 .profile-nadiah{
   /* padding: 180px 0 100px 0; */
-  background-image: none;
+  background-image: url("/resources/HZ_Footer4.png");
   background-size: cover;
   text-align: justify;
 }
