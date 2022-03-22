@@ -1,7 +1,7 @@
 *{
   margin: 0%;
   padding: 0%;
-  font-family: "Calibri Light";
+  font-family: 'Calibri Light','Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 img{
@@ -33,6 +33,20 @@ img{
   color: black;
 }
 
+.heading h1{
+  font-size: 44;
+}
+
+.name{
+  font-family: "Eras Demi ITC";
+  font-size: 48;
+}
+
+.highlight{
+  font-family: Tahoma, 'Segoe UI', Geneva, Verdana, sans-serif;
+  color: orangered;
+}
+
 .profile-box{
   float: left;
   width: 25%;
@@ -54,10 +68,6 @@ img{
 .profile-team{
   display: flex;
   text-align: justify;
-}
-
-.profile-content h3{
-  color: darkorange;
 }
 
 .profile-content{
