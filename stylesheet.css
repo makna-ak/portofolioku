@@ -43,6 +43,7 @@ img{
   font-size: 48px;
   line-height: 1;
   margin-bottom: 20px;
+  margin-top: 10px;
 }
 
 .highlight{
@@ -119,7 +120,7 @@ img{
 }
 
 .profile-content{
-  font-size: 15px;
+  font-size: 20px;
   color: white;
   width: 45%;
   z-index: 1;
