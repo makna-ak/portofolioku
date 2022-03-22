@@ -60,9 +60,22 @@ img{
   width: 25%;
 }
 
+.goal h2{
+  display: inline;
+}
+
+.goal h3{
+  display: inline-block;
+}
+
 .contact{
-  float: right;
-  width: 70%;
+  font-size: 18px;
+}
+
+.fa-angle-right{
+  color: orange;
+  margin-right: 5px;
+  margin-left: 10px;
 }
 
 .profile-image{
