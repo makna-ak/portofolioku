@@ -1,10 +1,6 @@
 *{
   margin: 0%;
   padding: 0%;
-  max-width: 100%;
-  max-width: 100%;
-  min-width: 100%;
-  min-height: 100%;
   font-family: 'Calibri Light','Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-weight: 500;
 }
@@ -109,6 +105,13 @@ img{
   position: relative;
   display: inline-block;
   width: 90%;
+}
+
+.profile-image p{
+  position: absolute;
+  top: 80px;
+  width: 100%;
+  color: black;
 }
 
 .profile-team{
