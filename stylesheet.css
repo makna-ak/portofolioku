@@ -3,6 +3,11 @@
   padding: 0%;
 }
 
+img{
+  max-width: 100%;
+  max-width: 100%;
+}
+
 .container{
   width: 1170px;
   padding: 0 15px;
@@ -11,10 +16,10 @@
 
 .top-wrapper{
   height: 652px;
-  background-color: grey;
   text-align: center;
-  background-image: url(resources/Header\ 6.png);
+  background-image: url(/resources/Header6.png);
   background-size: cover;
+  color: black;
 }
 
 .heading{
@@ -30,6 +35,9 @@
 
 .profile-image{
   position: relative;
+  display: inline-block;
+  height: 30px;
+  width: 80px;
 }
 
 .profile-image p{
@@ -73,6 +81,5 @@
 
 .profile-content{
   color: white;
-  background-color: gray;
   width: 75%;
 }
