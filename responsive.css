@@ -8,7 +8,7 @@
 
 /* Untuk Smartphone */
 @media all and (max-width: 670px){
-    .profile-box, .top-wrapper, .goal, .project, .profile-wrapper, header, footer, img{
+    .profile-box, .top-wrapper, .goal, .project, .profile-wrapper, header, footer{
         width: 100%;
     }
     
