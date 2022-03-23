@@ -105,6 +105,10 @@ img{
   opacity: 0.8;
 }
 
+.img-click:hover{
+  opacity: 1;
+}
+
 .btn:hover{
   opacity: 1;
 }
