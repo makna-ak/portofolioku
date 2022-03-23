@@ -1,15 +1,15 @@
 /* Untuk Tablet */
 @media all and (max-width: 1000px){
-    .profile-box{
+    /* .profile-box{
         width: 50%;
         margin-bottom: 10%;
-    }
+    } */
 }
 
 /* Untuk Smartphone */
 @media all and (max-width: 670px){
-    .profile-box{
+    /* .profile-box{
         width: 100%;
-    }
+    } */
     
 }
