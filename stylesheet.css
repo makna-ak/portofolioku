@@ -68,10 +68,6 @@ img{
   width: 25%;
 }
 
-.goal{
-  margin: 15% 10% 15% 10%;
-}
-
 .goal h2{
   font-size: 3vw;
 }
@@ -96,6 +92,7 @@ img{
 }
 
 .goal-content{
+  margin: 15% 10% 15% 10%;
   text-align: justify;
   z-index: 1;
   position: absolute;
