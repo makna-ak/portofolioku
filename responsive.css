@@ -8,5 +8,7 @@
 
 /* Untuk Smartphone */
 @media all and (max-width: 670px){
-    
+    .profile-box{
+        width: 100%;
+    }
 }
