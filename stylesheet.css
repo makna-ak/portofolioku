@@ -90,6 +90,7 @@ img{
   color: white;
   display: inline-block;
   border-radius: 4px;
+  opacity: 0.8;
 }
 
 .btn:hover{
