@@ -68,6 +68,11 @@ img{
   width: 25%;
 }
 
+.goal-content{
+  margin: 15% 10% 15% 10%;
+  text-align: justify;
+}
+
 .goal h2{
   font-size: 3vw;
 }
@@ -87,12 +92,8 @@ img{
   margin-left: 10px;
 }
 
-.project{
-  margin: 3% 10% 5% 10%;
-}
-
-.goal-content{
-  margin: 15% 10% 15% 10%;
+.project-content{
+  margin: 5% 10% 15% 10%;
   text-align: justify;
   z-index: 1;
   position: absolute;
