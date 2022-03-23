@@ -81,8 +81,20 @@ img{
   font-size: 2.1vw;
 }
 
+.btn{
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.btn:hover{
+  opacity: 1;
+}
+
 .contact{
   font-size: 1.5vw;
+  background-color: orangered;
 }
 
 .fa-angle-right{
