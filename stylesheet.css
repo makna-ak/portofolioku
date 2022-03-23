@@ -53,8 +53,8 @@ img{
 .name{
   font-size: 3.8vw;
   line-height: 1;
-  margin-bottom: 20px;
-  margin-top: 10px;
+  margin-bottom: 1%px;
+  margin-top: 1%;
 }
 
 .highlight{
@@ -124,7 +124,7 @@ img{
 
 .profile-team h3{
   font-size: 2vw;
-  margin-bottom: 10px;
+  margin-bottom: 1%;
 }
 
 .profile-content{
@@ -133,5 +133,5 @@ img{
   width: 40%;
   z-index: 1;
   position: absolute;
-  margin: 3% 0 0 10%;
+  margin: 5% 0 0 10%;
 }
