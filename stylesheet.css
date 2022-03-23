@@ -9,6 +9,10 @@ html, body{
   font-weight: 500;
 }
 
+a{
+  text-decoration: none;
+}
+
 header{
   top: 0px;
   margin-top: -1px;
@@ -100,7 +104,6 @@ img{
 .fa-angle-right{
   color: orange;
   margin-right: 5px;
-  margin-left: 10px;
 }
 
 .project-content{
